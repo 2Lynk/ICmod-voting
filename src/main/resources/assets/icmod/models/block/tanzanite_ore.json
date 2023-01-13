@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "icmod:block/tanzanite_ore"
+  }
+}
