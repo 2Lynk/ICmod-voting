@@ -1,6 +1,6 @@
-package icmod.util;
+package icmod_voting.util;
 
-import icmod.command.Voting;
+import icmod_voting.command.Voting;
 import net.fabricmc.fabric.api.command.v2.CommandRegistrationCallback;
 
 public class ModRegistries {

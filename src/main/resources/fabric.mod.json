@@ -3,8 +3,8 @@
   "id": "modid",
   "version": "${version}",
 
-  "name": "InnerCircle mod",
-  "description": "Onze innercircle minecraft server mod!",
+  "name": "InnerCircle voting mod",
+  "description": "InnerCircle voting mod!",
   "authors": [
     "Zalteroth a.k.a. 2Lynk"
   ],
@@ -19,7 +19,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "icmod.main"
+      "icmod_voting.main"
     ]
   },
 
